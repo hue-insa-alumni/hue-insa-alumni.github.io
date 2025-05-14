@@ -1,2 +1,3 @@
-====== Tips về cuộc sống ======
-✏️<color #00a2e8>//Cần thêm nội dung//</color>
+# Tips về cuộc sống
+
+> //Cần thêm nội dung//

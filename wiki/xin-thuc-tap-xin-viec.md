@@ -1,3 +1,7 @@
+---
+title: Xin thực tập, xin việc
+---
+
 # 10 - Xin thực tập, xin việc
 
 - [Viết CV](xin-thuc-tap-xin-viec/viet-cv.md)
