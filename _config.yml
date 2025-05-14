@@ -5,7 +5,7 @@ title: "Hué-INSA Alumni Wiki"
 # with your folder name, otherwise leave it empty
 baseurl: ""
 # (string) Description of your wiki
-description:
+description: "Wiki của hội Hué-INSA Alumni"
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
@@ -27,7 +27,7 @@ show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url:
+logo_url: assets/images/logo.png
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics:
 # (string) folder where wiki pages are stored, it's needed for tool buttons
