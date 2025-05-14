@@ -1,4 +1,5 @@
-====== 08 - Tư vấn ngành học======
+# 08 - Tư vấn ngành học
+
 Chia sẻ kinh nghiệm về viêc lựa chọn ngành học cho phù hợp với sinh viên
 
-- [[tu-van-nganh-hoc:kinh-nghiem-dinh-huong|Kinh nghiệm & định hướng]]
+- [Kinh nghiệm & định hướng](tu-van-nganh-hoc/kinh-nghiem-dinh-huong.md)
