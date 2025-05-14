@@ -1,0 +1,10 @@
+====== Changelog ======
+
+===== 19/03/2023 - bởi tu.duong =====
+  * Cài đặt plugin [[https://www.dokuwiki.org/plugin:indexmenu]] để render menu cho trang wiki. Để biết thêm chi tiết, vui lòng đi đến [[sidebar|]]
+  * Cài đặt plugin [[https://www.dokuwiki.org/plugin:lastpages]] hiển thị những trang mới nhất được thêm vào wiki. Để biết thêm chi tiết, vui lòng đi đến [[home|home]]
+  * Thêm phần số thứ tự cho mỗi tiêu đề của từng trang gốc của namespace để menu hiển thị theo thứ tự alphabet (TODO : cần tìm giải pháp khác)
+  * Cài đặt custom user CSS cho trang wiki, có thể tìm trong ///conf/userstyle.less//
+    * Thay đổi màu sắc cho headlines (h1,h2,h3,...)
+    * Thay đổi độ rộng của menu & nội dung
+    * Thay đổi độ rộng mặc định của nội dung chính
