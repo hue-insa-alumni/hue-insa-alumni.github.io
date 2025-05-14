@@ -23,13 +23,13 @@ paginate: 5
 paginate_path: "/assets/blog/page:num"
 permalink: /assets/blog/posts/:year/:month/:day/:title:output_ext
 # (boolean) Enable/disable download buttons in sidebar
-show_downloads: true
+show_downloads: false
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: assets/images/logo.png
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics:
+google_analytics: "G-1Q9DTSE7PS"
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: "wiki"
 # (boolean) if you're using github wiki as submodule then this config
@@ -77,17 +77,17 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "git-wiki-default"
+      layout: "git-wiki-bs-github"
   - scope:
       path: ""
       type: "pages"
     values:
-      layout: "git-wiki-default"
+      layout: "git-wiki-bs-github"
   - scope:
       path: ""
       type: "posts"
     values:
-      layout: "git-wiki-post"
+      layout: "git-wiki-bs-github"
   - scope:
       path: "assets/blog"
     values:
