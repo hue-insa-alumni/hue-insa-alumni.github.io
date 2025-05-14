@@ -1,0 +1,2 @@
+Testing side bar:
+[[:huong-dan|Hướng dẫn sử dụng]]
