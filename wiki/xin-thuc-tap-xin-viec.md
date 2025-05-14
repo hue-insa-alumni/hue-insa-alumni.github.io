@@ -1,0 +1,5 @@
+====== 10 - Xin thực tập - Xin việc ======
+
+- [[xin-thuc-tap-xin-viec:viet-cv|Viết CV]]
+- [[xin-thuc-tap-xin-viec:cach-rai-cv|Cách rải đơn]]
+- [[xin-thuc-tap-xin-viec:tip-phong-van|Tip phỏng vấn]]
