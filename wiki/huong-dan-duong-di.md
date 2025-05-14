@@ -1,0 +1,8 @@
+====== 04 - Hướng dẫn đường đi sang Pháp ======
+
+Hướng dẫn chi tiết để cho các bạn sinh viên khi vừa sang Pháp đến Blois, Bourges hoặc Toulouse.
+
+- [[huong-dan-duong-di:huong-dan-chung|Hướng dẫn chung]]
+- [[huong-dan-duong-di:den-blois|Đến Blois]]
+- [[huong-dan-duong-di:den-bourges|Đến Bourges]]
+- [[huong-dan-duong-di:den-toulouse|Đến Toulouse]]
