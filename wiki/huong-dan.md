@@ -9,7 +9,7 @@ date: 2025-05-15 01:04 +0100
 
 ## Hướng dẫn chung
 
-HUE INSA WIKI được phát triển dựa trên phần mềm mã nguồn mở DokuWiki. Đây là hướng dẫn sử dụng của doku wiki trên trang chủ của nhà phát hành: [https://www.dokuwiki.org/manual](https://www.dokuwiki.org/manual).
+HUE INSA WIKI được phát triển dựa trên Jekyll và sử dụng Markdown để viết nội dung. Đây là hướng dẫn sử dụng Markdown cơ bản để giúp bạn đóng góp nội dung cho wiki.
 
 ## Hướng dẫn sử dụng cơ bản
 
@@ -17,163 +17,136 @@ Dưới đây là hướng dẫn cụ thể và một số quy ước khi sử d
 
 ## Tạo trang mới
 
-Nhập URL theo quy ước sau:
+Để tạo một trang mới, bạn cần:
 
-> doku.php?id={namespace1}:{namespace2}:{tên page}
+1. Tạo file `.md` mới trong thư mục tương ứng
+2. Thêm front matter ở đầu file với thông tin tác giả và ngày:
 
-Ví dụ, để tạo 1 trang mới về "Chương trình học INSA CVL" trong namespace "Chương trình học", ta cần sử dụng URL sau:
-
-> doku.php?id=chuong-trinh-hoc:chuong-trinh-hoc-insa-cvl
-
-Sau đó, vui lòng thay đổi nội dung của trang và lưu để hoàn tất quá trình tạo trang.
-
-⚠️ Để tránh nhầm lẫn và xảy ra lỗi, vui lòng nhập tên trang và namespace theo quy ước: viết liền, không dấu và dùng dấu gạch "-" để phân chia từ nếu cần thiết.
-
-## Namespaces
-
-Để dễ dàng quản lý nội dung của wiki, khuyến khích sử dụng namespace để phân chia nội dung theo chủ đề lớn nhỏ. Cách tạo mới namespace tương tự như tạo 1 page mới ở trên, namespace sẽ tự động được tạo.
-
-## Chỉnh sửa nội dung
-
-### Viết bài
-
-Để bắt đầu viết bài hoặc chỉnh sửa nội dung của một trang bất kỳ, vui lòng nhấn vào icon bút chì như hình dưới đây:
-
-![Edit Icon](1.png)
-
-### Sơ lược về Markdown
-
-#### Giới thiệu
-
-Markdown là ngôn ngữ đánh dấu văn bản được tạo ra bởi John Gruber, sử dụng cú pháp khá đơn giản và dễ hiểu, dễ nhớ. Nếu nắm vững các cú pháp của Markdown bạn có thể trình bày bài viết của mình một cách mạch lạc, ấn tượng mà không mất nhiều thời gian. Trình editor của WIKI sử dụng hoàn toàn với cú pháp của Markdown, dưới đây là một số hướng dẫn cơ bản để làm quen với ngôn ngữ này. Để biết thêm những cú pháp nâng cao khác, vui lòng tham khảo tại [đây](https://www.dokuwiki.org/wiki:syntax).
-
-#### Tạo đề mục
-
-**Cú pháp:**
-
-```
-# Đề mục cấp 1
-## Đề mục cấp 2
-### Đề mục cấp 3
-#### Đề mục cấp 4
-##### Đề mục cấp 5
+```yaml
+---
+authors:
+  - name: "Tên của bạn"
+    github: "username-github"
+date: YYYY-MM-DD HH:MM +0100
+---
 ```
 
-**Kết quả:**
+3. Viết nội dung bằng Markdown
+4. Commit và push lên repository
 
-![Headings](22.png)
+## Cấu trúc thư mục
 
-#### Danh sách đánh số
+Wiki được tổ chức theo các thư mục chính:
 
-**Cú pháp:**
+- `gioi-thieu-truong-hoc/`: Thông tin về trường học
+- `chuan-bi-sang-phap/`: Hướng dẫn chuẩn bị
+- `gioi-thieu-cuoc-song/`: Thông tin về cuộc sống
+- `thu-tuc-hanh-chinh/`: Các thủ tục hành chính
+- `xin-thuc-tap-xin-viec/`: Hướng dẫn xin việc
+- `tips-cuoc-song/`: Các tips hữu ích
 
-```
-1. Phần tử 1
-   1. Phần tử 1.1
-   2. Phần tử 1.2
-2. Phần tử 2
-3. Phần tử 3
-```
+## Hướng dẫn Markdown
 
-**Kết quả:**
+### Tiêu đề
 
-1. Phần tử 1
-   1. Phần tử 1.1
-   2. Phần tử 1.2
-2. Phần tử 2
-3. Phần tử 3
+```markdown
+# Tiêu đề cấp 1
 
-#### Danh sách không đánh số
+## Tiêu đề cấp 2
 
-**Cú pháp:**
+### Tiêu đề cấp 3
 
-```
-* Phần tử 1
-  * Phần tử 1.1
-  * Phần tử 1.2
-* Phần tử 2
-  * Phần tử 2.1
-* Phần tử 3
+#### Tiêu đề cấp 4
+
+##### Tiêu đề cấp 5
 ```
 
-**Kết quả:**
+### Danh sách có thứ tự
 
-- Phần tử 1
-  - Phần tử 1.1
-  - Phần tử 1.2
-- Phần tử 2
-  - Phần tử 2.1
-- Phần tử 3
-
-#### Bảng
-
-**Cú pháp:**
-
-```
-| Heading 1 | Heading 2 | Heading 3 |
-|-----------|-----------|-----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 1 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+```markdown
+1. Mục thứ nhất
+2. Mục thứ hai
+   1. Mục con 2.1
+   2. Mục con 2.2
+3. Mục thứ ba
 ```
 
-**Kết quả:**
-| Heading 1 | Heading 2 | Heading 3 |
-|-----------|-----------|-----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 1 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+### Danh sách không thứ tự
 
-#### Quoting
-
-**Cú pháp:**
-
-```
-I think we should do it
-
-> No we shouldn't
-
->> Well, I say we should
-
-> Really?
-
->> Yes!
-
->>> Then lets do it!
+```markdown
+- Mục thứ nhất
+- Mục thứ hai
+  - Mục con 2.1
+  - Mục con 2.2
+- Mục thứ ba
 ```
 
-**Kết quả:**
+### Bảng
 
-> I think we should do it
-
-> No we shouldn't
-
-> > Well, I say we should
-
-> Really?
-
-> > Yes!
-
-> > > Then lets do it!
-
-#### CodeBlock
-
-**Cú pháp:**
-
-```
-This is preformatted code all spaces are preserved: like              <-this
+```markdown
+| Cột 1  | Cột 2   | Cột 3   |
+| ------ | ------- | ------- |
+| Dòng 1 | Dữ liệu | Dữ liệu |
+| Dòng 2 | Dữ liệu | Dữ liệu |
 ```
 
-**Kết quả:**
+### Trích dẫn
 
+```markdown
+> Đây là một đoạn trích dẫn
+>
+> > Đây là trích dẫn lồng nhau
 ```
-This is preformatted code all spaces are preserved: like              <-this
+
+### Code
+
+````markdown
+`inline code`
+
+```python
+# code block
+def hello():
+    print("Hello, World!")
+```
+````
+
+````
+
+### Liên kết
+
+```markdown
+[Văn bản liên kết](https://example.com)
+````
+
+### Hình ảnh
+
+```markdown
+![Mô tả hình ảnh](/đường/dẫn/đến/hình/ảnh.jpg)
 ```
 
-#### Chèn hình ảnh
+### Định dạng văn bản
 
-Để bắt đầu chèn hình ảnh, vui lòng nhấn vào icon chèn hình ảnh như hình dưới đây để mở ra cửa sổ tải hình ảnh:
+```markdown
+_in nghiêng_
+**in đậm**
+**_in đậm và nghiêng_**
+~~gạch ngang~~
+```
 
-![Insert Image](33.png)
+### Ghi chú
 
-Tiếp đến, chọn 1 thư mục bất kỳ để bắt đầu tải ảnh lên (ví dụ: thư mục gốc hoặc wiki), sau đó chọn hình ảnh vừa tải lên để chèn vào bài viết.
+```markdown
+> ⚠️ Đây là một ghi chú quan trọng
+```
+
+## Quy ước viết bài
+
+1. Luôn thêm front matter với thông tin tác giả và ngày
+2. Sử dụng tiêu đề cấp 1 (#) cho tiêu đề chính của trang
+3. Sử dụng tiêu đề cấp 2 (##) cho các phần chính
+4. Sử dụng tiêu đề cấp 3 (###) cho các phần con
+5. Thêm ghi chú quan trọng bằng blockquote với emoji ⚠️
+6. Sử dụng danh sách có thứ tự cho các bước thực hiện
+7. Sử dụng danh sách không thứ tự cho các mục liệt kê
+8. Thêm hình ảnh minh họa khi cần thiết
+9. Đặt tên file theo quy ước: viết thường, dùng dấu gạch ngang (-) thay dấu cách
