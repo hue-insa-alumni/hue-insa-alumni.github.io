@@ -1,22 +1,31 @@
-====== Học bổng ở Pháp ======
+---
+authors:
+  - name: "Hué-INSA Alumni"
+    github: "hue-insa-alumni"
+date: 2023-03-25 22:19 +0200
+---
 
-===== Học bổng từ chính phủ Pháp =====
+# Học bổng ở Pháp
 
-Có nhiều cơ quan thuộc chính phủ Pháp trao học bổng hàng năm cho sinh viên quốc tế dựa theo nhiều tiêu chí, bên cạnh hồ sơ xuất xắc, còn có ngoại giao/chính trị. Ví dụ
-_ Bạn sẽ không ngạc nhiên khi có nhiều bạn sinh viên châu Phi học không quá xuất sắc mà vẫn có học bổng).
-_ Sinh viên Mỹ sẽ gần như không bao giờ nhận học bổng Eiffel, thay vào đó là chương trình Fullbright (bilatéral - song phương), nếu bạn ở Việt Nam thì có thể sẽ nghe thấy chương trinh này.
+## Học bổng từ chính phủ Pháp
+
+Có nhiều cơ quan thuộc chính phủ Pháp trao học bổng hàng năm cho sinh viên quốc tế dựa theo nhiều tiêu chí, bên cạnh hồ sơ xuất xắc, còn có ngoại giao/chính trị. Ví dụ:
+
+- Bạn sẽ không ngạc nhiên khi có nhiều bạn sinh viên châu Phi học không quá xuất sắc mà vẫn có học bổng.
+- Sinh viên Mỹ sẽ gần như không bao giờ nhận học bổng Eiffel, thay vào đó là chương trình Fullbright (bilatéral - song phương), nếu bạn ở Việt Nam thì có thể sẽ nghe thấy chương trinh này.
 
 Ở Pháp, học bổng chia làm 2 loại: học bổng 'regular' với mục đích giúp sinh viên có gia đình thu nhập thấp dưới mức trung bình và đông con, điển hình là CROUS; loại thứ hai là Bourse d'excellence/ mérite với tiêu chí là chỉ trao cho sinh viên xuất sắc. Trong bài viết này, mình tập trung chủ yếu vào học bổng excellence.
 
 Có hai học bổng phổ biến dành cho sinh viên các nước đang phát triên như các nước châu Á (bao gồm Việt Nam), châu Phi, Mỹ latin:
-_ Bourse d'excellence Eiffel
-_ Bourse d'excellence Ambassade
+
+- Bourse d'excellence Eiffel
+- Bourse d'excellence Ambassade
 
 Còn một học bổng khá phổ biến là ERASMUS (không trực tiếp đến từ chính phủ Pháp) từ Ủy bang liên minh Châu Âu (EU Commision). Học bổng ERASMUS hợp lệ cho công dân châu Âu (trong một số trường hợp được trao cho sinh viên nước ngoài ERASMUS+).
 
 Ưu điểm của các loại học bổng này là hàng năm, theo tiêu chí, và có "hệ thống" (quota-based). Khuyết điểm là yêu cầu thành tích học tập xuất sắc và nổi trội ở trường.
 
-==== Học bổng Excellence Eiffel ====
+## Học bổng Excellence Eiffel
 
 Đây là học bổng 'danh giá' nhất ở Pháp (chỉ phát cho sinh viên các nước đang phát triển và kém phát triển, lmao). Học bổng này có nguồn hỗ trợ tài chính lớn nhất (1181 EUR/mois+ avantages (accommodation, voyages, assurance, etc.)). Mình khuyên các bạn nên xem thông tin đầy đủ trên trang web chính thức [link](https://www.campusfrance.org/fr/droits-et-obligations-du-boursier-eiffel), vì thông tin và điều kiện của học bổng thay đổi hàng năm.
 
@@ -38,18 +47,22 @@ Sau đây là quy trình nộp học bổng. Quy trình học bổng chia làm 2
 
 Cuối cùng, có một điều bạn nên biết là vì được phân bố bởi Ministère de l'Europe et des Affaires étrangères, nên có trường hợp, thí sinh không nhất thiết phải thông qua quy trình nêu trên vẫn nhận được hoc bổng. Điều này cũng được nêu trên GUIDE chính thức (nếu đọc kĩ :D).
 
-==== Học bổng Excellence Ambassade ====
-✏️<color #00a2e8>//Cần thêm nội dung//</color>
-===== Học bổng tư nhân/ phi chính phủ =====
+## Học bổng Excellence Ambassade
 
-==== "Bourse d'école" =====
+✏️*Cần thêm nội dung*
+
+## Học bổng tư nhân/ phi chính phủ
+
+### "Bourse d'école"
 
 Thông thường các trường đại học sẽ có các quỹ hỗ trợ sinh vien khó khăn. Các bạn nên manh dạn tìm hiểu thông tin qua scolarité của trường để có thông tin cụ thể nhất. Kinh nghiệm là các bạn phải hỏi thì họ mới tìm và cho.
 
 Một số trường nếu có quỹ lớn có thể có Bourse mérite dành cho sinh viên suất xắc trong trường.
 
-==== Foundation Valet ====
-✏️<color #00a2e8>//Cần thêm nội dung//</color>
+### Foundation Valet
 
-==== Bourse l'Oréal ====
-✏️<color #00a2e8>//Cần thêm nội dung//</color>
+✏️*Cần thêm nội dung*
+
+### Bourse l'Oréal
+
+✏️*Cần thêm nội dung*
