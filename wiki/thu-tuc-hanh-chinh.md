@@ -1,4 +1,11 @@
-# 05 - Thủ tục hành chính
+---
+authors:
+  - name: "Hué-INSA Alumni"
+    github: "hue-insa-alumni"
+date: 2025-05-15 01:04 +0100
+---
+
+# Thủ tục hành chính
 
 - [Làm carte vitale](thu-tuc-hanh-chinh/lam-carte-vitale.md)
 - [Làm titre de séjour](thu-tuc-hanh-chinh/lam-titre-de-sejour.md)
