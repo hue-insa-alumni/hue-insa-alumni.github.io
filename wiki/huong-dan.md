@@ -1,6 +1,11 @@
-# 00 - Hướng dẫn sử dụng
-
 ---
+authors:
+  - name: "Hué-INSA Alumni"
+    github: "hue-insa-alumni"
+date: 2025-05-15 01:04 +0100
+---
+
+# Hướng dẫn sử dụng
 
 ## Hướng dẫn chung
 
