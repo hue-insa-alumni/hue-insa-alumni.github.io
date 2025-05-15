@@ -1,4 +1,3 @@
-remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
 title: "Hué-INSA Alumni Wiki"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
