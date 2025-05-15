@@ -1,10 +1,19 @@
-====== Giới thiệu ngành học Blois ======
+---
+authors:
+  - name: "Hué-INSA Alumni"
+    github: "hue-insa-alumni"
+date: 2025-05-15 01:04 +0100
+---
+
+# Giới thiệu ngành học Blois
+
 Cơ sở tại Blois của trường INSA Centre Val de Loire tập trung đào tạo 2 nhóm sinh viên: sinh viên năm nhất và năm hai đang học lĩnh vực **STPI** (Sciences et Technologies Pour l'Ingénieur - tương đồng với hai năm học ở Việt Nam tại trường ĐH Sư Phạm Huế); và các sinh viên theo học phân ngành **Kĩ sư Hệ Thống Công Nghiệp (GSI)**.
 
-==== Kĩ sư Hệ thống Công Nghiệp ====
+## Kĩ sư Hệ thống Công Nghiệp
+
 **Génie des Systèmes Industriels (GSI)** là ngành học bao quát, liên quan đến việc tối ưu hóa những chu trình, hệ thống phức tạp. Ngành học chú trọng đến việc quản trị, phát triển và áp dụng các hệ thống được vận hành bởi con người.
 
-//[[https://www.insa-centrevaldeloire.fr/fr/formation/genie-des-systemes-industriels|Xem thêm: Trang chủ của GSI - INSA CVL]]//
+[Xem thêm: Trang chủ của GSI - INSA CVL](https://www.insa-centrevaldeloire.fr/fr/formation/genie-des-systemes-industriels)
 
 Chuyên ngành **Génie des Systèmes Industriels** đào tạo những kĩ sư đa năng, kiến tạo trong các hệ thống công nghiệp, đảm nhận các mảng hoạt động liên quan đến môi trường công nghiệp (một mảng rất rộng) bao gồm nhiều lĩnh vực nhỏ hơn, có thể tóm gọn lại gồm:
 
@@ -15,7 +24,7 @@ Chuyên ngành **Génie des Systèmes Industriels** đào tạo những kĩ sư 
 
 Định nghĩa về ngành học nhìn chung khá bao quát bởi lẽ sinh viên sẽ được học những kiến thức đa dạng và tổng hợp và có thể được áp dụng ở nhiều ngành nghề khác nhau. Do đó chương trình đào tạo cũng trải rộng, đặc biệt là trong năm thứ 3 và 4, sinh viên sẽ được học các môn học xoay quanh 3 mô-đun: toán tin, điện tử, cơ khí cũng như tổ hợp môn xã hội xen lẫn quản trị kinh doanh.
 
-//[[https://drive.google.com/file/d/1xhweSPfb1xhwjG_xcCPgX6qxBJdxHF6d/view|Xem thêm: Các môn học / Cycle ingénieur - GSI]]//
+[Xem thêm: Các môn học / Cycle ingénieur - GSI](https://drive.google.com/file/d/1xhweSPfb1xhwjG_xcCPgX6qxBJdxHF6d/view)
 
 Đến năm thứ năm, các bạn sẽ phải lựa chọn một phân ngành cụ thể để tiếp tục học sâu hơn, lưu ý, đối với những ngành học có nhiều sinh viên cùng chọn, hội đồng giáo viên sẽ đánh giá dựa trên kết quả học tập trước đó để lọc ra một số lượng sinh viên nhất định cho lĩnh vực đó.
 
@@ -27,4 +36,4 @@ Có 5 phân ngành được đào tạo chuyên sâu:
 - Bảo trì, hiệu suất và độ tin cậy của hệ thống (PMFSI): Production, Maintenance, Fiabilité des Systèmes Industriels - lĩnh vực được xem là trending của trường với số lượng sinh viên lựa chọn cao. Mục tiêu là cải thiện hiệu suất của hệ thống công nghiệp bằng việc nghiên cứu vòng đời của sản phẩm, hệ thống; bằng cách tạo ra các công cụ hiệu suất cao; bằng việc quản lý hiệu quả để đảm bảo hiệu suất tối ưu của công ty.
 - Năng lượng tái tạo (ENR): Energies Renouvelables - Kỹ sư năng lượng tái tạo có thể thiết kế, sản xuất, phân tích, tối ưu hóa và cải tiến các hệ thống sản xuất năng lượng điện bền vững (pin nhiên liệu, gió, quang điện, năng lượng biển) và lưu trữ năng lượng (hydro, pin, tụ điện, khí nén, ...)
 
-//[[https://drive.google.com/file/d/1aeDPMKigK3RKhB9h-UAav169_ETFq9W-/view|Xem thêm: Giới thiệu về chương trình học]]//
+[Xem thêm: Giới thiệu về chương trình học](https://drive.google.com/file/d/1aeDPMKigK3RKhB9h-UAav169_ETFq9W-/view)

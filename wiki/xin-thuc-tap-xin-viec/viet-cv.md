@@ -1,34 +1,45 @@
-===== Viết CV =====
+---
+authors:
+  - name: "Hué-INSA Alumni"
+    github: "hue-insa-alumni"
+date: 2023-03-25 22:19 +0200
+---
+
+# Viết CV
+
 🫶 Các nội dung trong phần này phần lớn được lấy từ file Powerpoint của workshop Tư vấn sửa CV & phỏng vấn thực tập 2022 của hội.
 
 Trong quá trình học tập và làm việc tại Pháp, chắc hẳn bạn sinh viên nào cũng phải trải qua rất nhiều lần tìm thực tập, tìm việc làm thêm, tìm việc sau khi ra trường... Để thực hiện những điều trên, CV là thứ rất quan trọng không thể thiếu và cần được chuẩn bị thật kỹ lưỡng. Dưới đây là những kinh nghiệm được đúc kết từ những anh chị sinh viên đi trước có thể giúp các bạn nâng cao kĩ năng viết CV của mình.
 
-==== Bố cục và trình bày ====
-=== Tầm quan trọng của CV ===
+## Bố cục và trình bày
+
+### Tầm quan trọng của CV
 
 Trung bình mỗi nhà tuyển dụng sẽ chỉ dùng khoảng 10 giây để lướt qua 1 CV và quyết định có tiếp tục đọc hoặc tiếp tục với ứng viên hay không. Đây là công cụ marketing đầu tiên mà người ứng tuyển có thể ghi điểm với nhà tuyển dụng, chỉ cần 1 lỗi nhỏ hoặc không nội dung gây ấn tượng, CV sẽ bị bỏ qua ngay lập tức. Đây cũng là thứ đầu tiên thể hiện sự phù hợp với lĩnh vực làm việc và công ty.
 
-=== Cấu trúc cơ bản của CV ===
+### Cấu trúc cơ bản của CV
+
 Thường bao gồm 6 mục chính
 
 - Thông tin cá nhân
-- <color #ed1c24>Học vấn</color>
-- <color #ed1c24>Kinh nghiệm làm việc</color>
-- <color #ed1c24>Kỹ năng nghề nghiệp</color>
+- **Học vấn**
+- **Kinh nghiệm làm việc**
+- **Kỹ năng nghề nghiệp**
 - Ngôn ngữ
 - Thông tin phụ thêm
 
 Trong đó 3 phần học vấn, kinh nghiệm làm việc và kỹ năng nghề nghiệp là những phần quan trọng nhất vì sẽ giúp người tuyển dụng đánh giá khả năng của ứng viên và xem xét có phù hợp với công việc hay không. Tùy vào kinh nghiệm hiện tại của ứng viên mà có thể làm nổi bật phần nào hơn, hoặc sắp xếp phần nào lên trước. Ví dụ ứng viên đang là sinh viên đang tìm thực tập, không có nhiều kinh nghiệm thực tế thì nên sắp xếp phần học vấn và kỹ năng lên trên. Ngược lại ứng viên đã từng thực tập hoặc đi làm thì nên để phần kinh nghiệm làm việc lên trên và chú trọng nhiều hơn vào phần này. Cách triển khai nội dung của từng phần sẽ được phân tích rõ ràng hơn ở phần [Nội dung CV]
 
-=== Cách trình bày ===
+### Cách trình bày
 
 - Chỉ viết trong tối đa 1 trang A4
 - Ghi rõ tìm vị trí gì trong thời gian bao lâu
 - Bố cục rõ ràng, template phù hợp, đẹp mắt
 - Hiện rõ các keywords cần thiết và phù hợp với công việc bạn ứng tuyển
 
-==== Nội dung CV ====
-=== Chuẩn bị trước khi bắt đầu viết CV ===
+## Nội dung CV
+
+### Chuẩn bị trước khi bắt đầu viết CV
 
 - Xác định lĩnh vực làm việc, ví dụ : backend, frontend, AI,...
 - Xác định rõ mục đích viết CV, ví dụ : tìm thực tập, tìm việc, tìm alternance,...
@@ -36,39 +47,40 @@ Trong đó 3 phần học vấn, kinh nghiệm làm việc và kỹ năng nghề
 - Nếu viết CV cho một công ty cụ thể, cần đọc kĩ job description và tìm hiểu về công ty trước khi viết CV
 - Tìm hiểu kỹ những kỹ năng cần thiết trong lĩnh vực đang muốn hướng tới, có thể dành thời gian trước đó để trau dồi những kỹ năng này trước khi viết và nộp CV
 
-=== Phần mở đầu ===
+### Phần mở đầu
+
 Bao gồm 4 nội dung chính
 
-- Tiêu đề của CV, ví dụ: “étudiant en 2ème année en informatique”, “À la recherche d’un stage en master 2 pour…”
+- Tiêu đề của CV, ví dụ: "étudiant en 2ème année en informatique", "À la recherche d'un stage en master 2 pour…"
 - Ảnh: không bắt buộc, nhưng nếu muốn để ảnh, phải chọn ảnh thật nghiêm túc, mặc vest hoặc sơ mi
 - Thông tin cá nhân: địa chỉ, email, số điện thoại. Tuổi tùy trường hợp
 - Giới thiệu sơ về bản thân: ngành học, khả năng, nguyện vọng,... nên ghi ngắn gọn và ghi rõ mục đích của CV
-  ⚠️<color #ff7f27>//Tiêu đề và giới thiệu sơ về bản thân rất quan trọng, người đọc CV sẽ dựa vào những thông tin này đầu tiên để xem xét ứng viên có thích hợp với vị trí hay không//</color>
+  ⚠️*Tiêu đề và giới thiệu sơ về bản thân rất quan trọng, người đọc CV sẽ dựa vào những thông tin này đầu tiên để xem xét ứng viên có thích hợp với vị trí hay không*
 
 **Ví dụ về phần mở đầu**
 
-{{ :democv_1_.png?nolink&400 |}}
+![Demo CV](democv_1_.png)
 
-=== Phần kinh nghiệm làm việc (Expérience) ===
+### Phần kinh nghiệm làm việc (Expérience)
 
 - Bắt buộc viết theo trình tự thời gian, từ gần nhất đến xa nhất
 - Viết từ 2 đến 3 kinh nghiệm làm việc hoặc dự án, không nên viết quá nhiều. Chỉ chọn những kinh nghiệm hoặc dự án nổi bật nhất
 - Với mỗi kinh nghiệm, cố làm nổi bật những thành thành quả đạt được, không chỉ liệt kê những việc đã làm
 
-=== Phần học vấn (Formation) ===
+### Phần học vấn (Formation)
 
 - Bắt buộc viết theo trình tự thời gian, từ gần nhất đến xa nhất
 - Mỗi mục bao gồm 3 thành phần : tên trường, loại bằng, ngày bắt đầu - ngày kết thúc
 - Nên thêm logo của trường trước mỗi mục, sẽ làm nổi bật và gây chú ý cho người đọc
 - (Không bắt buộc) Nếu phần kinh nghiệm quá ít, thì phần học vấn nên ghi thêm cho mỗi mục : ngành học đã chọn, thành tựu đạt được qua quá trình học (học bổng, majeur de classe)
 
-=== Phần kĩ năng (Compétences) ===
+### Phần kĩ năng (Compétences)
 
 - Dựa vào phần chuẩn bị đã làm từ trước, chọn những kỹ năng thích hợp cho lĩnh vực đang tìm hoặc những yêu cầu của job description của công ty
 - Sắp xếp kỹ năng theo mức độ phù hợp tương ứng với công việc
 - Không nên nói dối về kỹ năng, người phỏng vấn có thể hỏi bất chợt về kỹ năng đó, nếu trả lời sai sẽ không nhận được đánh giá tốt
 
-=== Phần thông tin ngoài (Certificats - Langues - Divers) ===
+### Phần thông tin ngoài (Certificats - Langues - Divers)
 
 - LANGUES : liệt kê các ngôn ngữ sử dụng được, kèm theo trình độ
 - CERTIFICATS : liệt kê những certificats nổi bật và tương ứng với poste đang nộp. Cần kèm theo link xác nhận của certificat để người tuyển dụng có thể kiểm tra
@@ -76,7 +88,7 @@ Bao gồm 4 nội dung chính
   Nên : chơi trong nhóm nhạc, tham gia hoạt động cộng đồng, tham gia thể thao
   Không nên : giải nhất poker (^^\_^^), tham gia đảng phái hoặc tôn giáo,...
 
-==== Lưu ý chung ====
+## Lưu ý chung
 
 - Tuyệt đối không sai chính tả, lỗi đánh máy
 - Chỉ sử dụng một ngôn ngữ thống nhất cho nội dung CV (Anh hoặc Pháp)

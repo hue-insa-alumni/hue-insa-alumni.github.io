@@ -1,11 +1,19 @@
-===== Cách rải đơn =====
+---
+authors:
+  - name: "Hué-INSA Alumni"
+    github: "hue-insa-alumni"
+date: 2025-05-15 01:04 +0100
+---
+
+# Cách rải đơn
+
 Thông thường ở thời điểm này thì tồn tại 3 cách gửi CV một cách phổ biến nhất:
 
 - Gửi qua Linkedin
 - Gửi qua trang web của công ty hay trang web trung gian về tuyển dụng
 - Gửi trực tiếp tới mail của công ty
 
-=== Lưu ý chung ===
+## Lưu ý chung
 
 - Luôn luôn double check trước khi ấn nút **SUBMIT**. Đừng đến khi ấn rồi mới nhận ra mình vừa apply cho công việc mơ ước với CV của thằng khác (và thằng đó được nhận LOL)
 
@@ -13,7 +21,7 @@ Thông thường ở thời điểm này thì tồn tại 3 cách gửi CV một
 
 - Luôn ưu tiên gửi trực tiếp tới cty, hoặc qua mail (tới RH, responsable de recruitement, futur tuteur 8-)...) hoặc qua trang web công ty
 
-=== Gửi qua LinkedIn ===
+## Gửi qua LinkedIn
 
 Ở đây LinkedIn được tách ra hẳn bởi vì càng ngày càng nhiều các công ty tuyển trực tiếp trên LinkedIn. Lí do đơn giản vì trước khi mất thời gian xem 1 cái CV họ có thể lượt qua profile LinkedIn của bạn và biết được sơ qua là bạn có phù hợp với công ty hay không rồi 8-o
 
@@ -22,21 +30,22 @@ Chính vì thế nên cần đặc biệt lưu ý chau truốt profile LinkedIn 
 **Lưu ý một chút là chứng nhận LinkedIn bạn chỉ có thể làm 2 lần, nếu fail cả 2 lần thì phải đợi thêm 3 tháng để quay lại thử, vì vậy hãy chắc chắn và chuẩn bị trước khi làm**
 
 Việc gửi CV qua LinkedIn cực dễ dàng, đôi khi chỉ mất 3 clicks là CV bạn đã tới tay RH. Nhưng cũng vì vậy nên cạnh tranh cũng rất cao. Các bạn có thể kết nối với RH phụ trách poste tuyển việc trên LinkedIn để tăng cơ hội, chào 1 cái biết đâu poste này trượt nhưng nếu có poste khác phù hợp hơn RH ưu tiên kết nối bạn với poste đó thì sao 8-)
-=== Gửi qua trang web của công ty hay trang web trung gian về tuyển dụng ===
 
-== COGIP ==
+## Gửi qua trang web của công ty hay trang web trung gian về tuyển dụng
+
+### COGIP
 
 Ai từng đi spam CV cũng đã từng trải qua: một công ty bé bự của Pháp với vài chục ngàn nhân viên và văn phòng ở mọi nơi, là mơ ước (?) thực tập để làm đẹp CV của mình. Và đến lúc rải CV đã bàng hoàng nhận ra: họ không chỉ đòi CV mà còn phải làm 1 đông cái form dài loằng ngoằng đôi khi là nhiều trang và chung quy lại thì chỉ là viết lại CV của mình theo style của công ty. Làm cho 1 cty làm 1 lần thì không sao nhưng làm nhiều lần thì đảm bảo bạn sẽ không còn 1 tí motivation nào để xin việc nữa =))
 
-Với trường hợp này thì hầu như không có cách nào khác ngoại trừ trâu cày. Tuy nhiên cũng có khá nhiều auto-complete tool có thể giúp ích kha khá bạn trong trường hợp này. Người viết bài này chỉ biết có tool như vậy nhưng chưa bao giờ dùng nên không chém, tuy nhiên đã có nghe về Simplify khá hữu ích cho mấy cái này. Use with caution: [[https://simplify.jobs/autofill|https://simplify.jobs/autofill]]
+Với trường hợp này thì hầu như không có cách nào khác ngoại trừ trâu cày. Tuy nhiên cũng có khá nhiều auto-complete tool có thể giúp ích kha khá bạn trong trường hợp này. Người viết bài này chỉ biết có tool như vậy nhưng chưa bao giờ dùng nên không chém, tuy nhiên đã có nghe về Simplify khá hữu ích cho mấy cái này. Use with caution: [https://simplify.jobs/autofill](https://simplify.jobs/autofill)
 
 Nếu là COGIP bé bự nhiều poste hoặc liên kết với các cty khác thì đừng ngại ngần taọ tài khoản rồi complete profile trước, điều này sẽ tiết kiệm rất nhiều thời gian nếu bạn định apply cho nhiều postes trong công ty
 
-== Công ty nhỏ hay các trang web thứ 3 ==
+### Công ty nhỏ hay các trang web thứ 3
 
 Thường đơn giản hơn rất nhiều: họ sẽ không đòi bạn điền 50 forms... mà chỉ điền 1 số thông tin và gửi CV + lettre de motivation thôi. Luôn luôn nhớ double check nhé. Dạo gần đây ở Pháp nổi lên welcometojungles được mấy công ty (đặc biệt startup) ưa chuộng vì thế nên nếu có xuất hiện trên đó hãy ưu tiên trang web kia nhé
 
-=== Gửi trực tiếp tới mail của công ty ===
+## Gửi trực tiếp tới mail của công ty
 
 Thường thì cái này hiếm xảy ra trừ khi là startup hay công ty bé. Đặc biệt trong trường hợp này hãy cực kì trau chuốt mail của mình, nói rõ nguyện vọng và mong muốn với công ty, vì nếu họ đã đưa mail cho bạn gửi, thì họ sẽ đọc mail trước rồi mới down CV về đọc sau.
 
