@@ -1,0 +1,22 @@
+{% if page.authors %}
+<div class="author-info">
+  <div class="authors-list">
+    <span class="author-label">Tác giả:</span>
+    {% for author in page.authors %}
+    <span class="author-item">
+      <span class="author-name">
+        {% if author.github %} {% avatar {{ author.github }} size=24 %}
+        <a href="https://github.com/{{ author.github }}" target="_blank" class="author-link">{{ author.name }}</a>
+        <a href="https://github.com/{{ author.github }}" target="_blank" class="author-github">
+          <i class="fab fa-github"></i>
+        </a>
+        {% else %} {{ author.name }} {% endif %}
+      </span>
+      {% unless forloop.last %}<span class="author-separator">·</span>{% endunless %}
+    </span>
+    {% endfor %}
+  </div>
+</div>
+{% endif %} {% if page.date %}
+<div class="author-date">Cập nhật ngày: {{ page.date | date: "%d/%m/%Y" }}</div>
+{% endif %}

@@ -1,0 +1,77 @@
+.git-wiki-page-title {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #24292e;
+}
+
+.author-info {
+  margin: 1rem 0;
+  padding: 0.75rem;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  font-size: 0.9rem;
+}
+
+.authors-list {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.author-label {
+  color: #7d716c;
+  font-weight: 500;
+  margin-right: 0.25rem;
+}
+
+.author-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.author-separator {
+  color: #adb5bd;
+  margin: 0 0.5rem;
+  font-size: 1.2rem;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.author-name {
+  font-weight: 500;
+  color: #495057;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.author-link {
+  color: #495057;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.author-link:hover {
+  color: #22863a;
+}
+
+.author-github {
+  color: #6c757d;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.author-github:hover {
+  color: #24292e;
+}
+
+.author-date {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: #6c757d;
+  border-top: 1px solid #dee2e6;
+  padding-top: 0.5rem;
+}

@@ -1,4 +1,12 @@
-# 02 - Giới thiệu về trường học
+---
+authors:
+  - name: "Hué-INSA Alumni"
+    github: "hue-insa-alumni"
+  - name: "Vu LE"
+date: 2025-05-15 01:04 +0100
+---
+
+# Giới thiệu về trường học
 
 Giới thiệu về trường học (INSA CVL (Blois & Bourges) - INSA Toulouse)
 
