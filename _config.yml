@@ -28,7 +28,7 @@ git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: assets/images/logo.png
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics: "G-1Q9DTSE7PS"
+google_analytics: G-1Q9DTSE7PS
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: "wiki"
 # (boolean) if you're using github wiki as submodule then this config
