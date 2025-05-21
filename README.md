@@ -4,25 +4,7 @@ Trang thông tin chung của hội Hué-INSA Alumni được xây dựng từ te
 
 ## Development
 
-To install (run once):
-
-```bash
-mv .env-files/Gemfile.github Gemfile
-bundle install
-```
-
-To build:
-
-```bash
-bundle exec jekyll build
-```
-
-To launch locally with hot-reload:
-
-```bash
-bundle exec jekyll serve --livereload
-```
-
+See [Makefile](Makefile) for more information.
 ## Edit
 
 Markdown format:
