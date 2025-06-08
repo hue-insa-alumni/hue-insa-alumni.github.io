@@ -1,6 +1,6 @@
 ---
 authors:
-  - name: "Huu Nhat Huy NGUYEN"
+  - name: "Nguyễn Hữu Nhật Huy K12"
     email: "nguyenhuunhathuy2502@gmail.com"
 date: 2023-03-25 22:19 +0200
 ---
@@ -32,10 +32,9 @@ Trước khi sang pháp, các bạn cần phải scan màu hết những giấy 
 - Bút viết - Ở Pháp không thiếu nhưng giá không được mềm như ở Việt Nam, bạn có thể thủ sẵn một hộp 20-30 cây bút bi dùng quanh năm.
 - Kính cận - Làm kính ở Pháp tốn nhiều thời gian và rất đắt nên trước khi sang Pháp bạn nên cầm theo khoảng 2 đến 3 cặp kính dự phòng.
 - Ổ cắm điện - Vì nước Pháp sử dụng ổ cắm tròn có chấu lồi nên không tương thích với phần lớn sạc điện tử ở Việt Nam, bạn nên mang theo một ổ cắm LIOA có nhiều chân để tiện sử dụng.
-  ![Ổ cắm điện](https://www.ylea.eu/administration/catalogue/images/prise-electrique-pour-formation-10085.jpg?100)
 - Đồ skincare - Nên đóng vào hành lí kí gửi để tránh trường hợp bị tịch thu khi qua hải quan (>200ml)
 - Đồ ấm - Mũ len, khăn quàng cổ, găng tay, mũ lưỡi trai, tất, đồ lót, áo quần giữ nhiệt
-- Phụ kiện - dây chuyền, nhẫn, đồng hồ... _(Shopee >> Amazon)_
+- Phụ kiện - dây chuyền, nhẫn, đồng hồ... _(Shopee \>\> Amazon)_
 - Nên mang theo một cái chăn mỏng và một hoặc hai cái áo phao _(nên hút chân không để tiết kiệm không gian)_
 - Thuốc: kháng sinh, paracetamol, thuốc cảm, giảm đau hạ sốt, viêm họng, viên sủi, dầu gió, salonpas, thuốc chữ Y thần thánh _(cho người đau dạ dày)_, đồ y tế dự phòng
 - Giày dép - nên chọn loại êm chân và bền để tiện dùng cho việc đi học

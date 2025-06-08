@@ -2,6 +2,7 @@
 authors:
   - name: "Hué-INSA Alumni"
     github: "hue-insa-alumni"
+  - name: "Nguyễn Kế An K12"
 date: 2023-03-25 22:19 +0200
 ---
 
@@ -21,7 +22,7 @@ Ngoài ra thì nhà anh Mừng cũng là một địa điểm với nhiều trò
 
 ## Địa điểm ăn uống - tâm sự
 
-Mấy anh em Việt Nam cũng hay tập trung tại nhà 19 Rue Des Fonds Gaidons để mở tiệc nướng BBQ ngoài trời và ăn lẩu. Cùng nhau ăn uống, kể cho nhau nghe những khó khăn trong cuộc sống. Thỉnh thoảng cũng có uống bia, thường xuyên thỉnh thoảng.
+Mấy anh em Việt Nam cũng hay tập trung tại nhà 19 Rue Des Fonds Gaidons để mở tiệc nướng BBQ ngoài trời và ăn lẩu. Cùng nhau ăn uống, kể cho nhau nghe những khó khăn trong cuộc sống.
 
 ## Chơi gì ở Bourges vào ngày lễ
 

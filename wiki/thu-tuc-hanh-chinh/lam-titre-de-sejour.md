@@ -42,7 +42,7 @@ Nếu có giấy chứng nhận này thì các bạn cứ tự tin mà về Vi�
 ## 4. Tham dự buổi hẹn
 
 Địa điểm lấy titre de séjour sẽ là prefecture (ví dụ ở Bourges thì sẽ là Préfecture de Cher, ở Blois thì là Préfecture de Loir-et-Cher,...)
-Đến ngày hẹn, , bạn sẽ phải mang theo passport, đóng thuế (thường thì các bạn có thể đến bất kì tabac nào và hỏi mua timbre fiscal pour titre de séjour, các bạn cũng có thể nói rõ ra là dành cho étudiant(e) étranger(e)). Cuối cùng, nộp cho préfecture để nhận titre thôi.
+Đến ngày hẹn, bạn sẽ phải mang theo passport, đóng thuế (thường thì các bạn có thể đến bất kì tabac nào và hỏi mua timbre fiscal pour titre de séjour, các bạn cũng có thể nói rõ ra là dành cho étudiant(e) étranger(e)). Cuối cùng, nộp cho préfecture để nhận titre thôi.
 
 Chúc các bạn may mắn.
 
