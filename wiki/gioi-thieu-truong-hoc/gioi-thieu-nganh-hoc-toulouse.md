@@ -2,12 +2,11 @@
 authors:
   - name: "Hué-INSA Alumni"
     github: "hue-insa-alumni"
+  - name: "Nguyễn Minh Duy K12"
 date: 2025-05-15 01:04 +0100
 ---
 
 # Giới thiệu ngành học Toulouse
-
-_Cần thêm nội dung..._
 
 ## I. Toán ứng dụng (mathématiques appliquées)
 

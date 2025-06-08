@@ -2,6 +2,7 @@
 authors:
   - name: "Hué-INSA Alumni"
     github: "hue-insa-alumni"
+  - name: "Dương Tú K1"
 date: 2023-03-25 22:19 +0200
 ---
 
@@ -36,7 +37,7 @@ giấy phép cư trú "tìm việc làm/ thành lập doanh nghiệp" **(Carte d
 
 ### Mục đích của carte de séjour - Recherche d'emploi/création d'entreprise (RECE)
 
-Giấy phép này cho phép bạn ở lại Pháp để tìm kiếm kinh nghiệm làm việc đầu tiên hoặc thành lập một công ty trong lĩnh vực tương ứng với chương trình học của bạn. Công việc tìm kiếm được cần liên quan đến chương trình học hoặc nghiên cứu của bạn. Lương brut hàng tháng của bạn phải lớn hơn **2.563,92 €**. [Link](https://www.demarches.interieur.gouv.fr/particuliers/carte-sejour-recherche-emploi-creation-entreprise)
+Giấy phép này cho phép bạn ở lại Pháp để tìm kiếm kinh nghiệm làm việc đầu tiên hoặc thành lập một công ty trong lĩnh vực tương ứng với chương trình học của bạn. Công việc tìm kiếm được cần liên quan đến chương trình học hoặc nghiên cứu của bạn. Lương brut hàng tháng của bạn phải lớn hơn **2.563,92 €**. Tham khảo thêm [tại đây](https://www.demarches.interieur.gouv.fr/particuliers/carte-sejour-recherche-emploi-creation-entreprise).
 
 ### Đối tượng của carte de séjour - Recherche d'emploi/création d'entreprise (RECE)
 
@@ -119,7 +120,7 @@ Một lưu ý quan trọng là bạn không cần phải đợi cho đến khi g
 
 - Hợp đồng lao động của bạn phải được DIRECCTE (Cục quản lý khu vực về kinh doanh, cạnh tranh, tiêu dùng, lao động và việc làm) xác nhận trong trường hợp xin giấy phép cư trú "nhân viên" hoặc "công nhân tạm thời". Không cần xác nhận này nếu bạn xin "passeport talent"
 
-- Nếu bạn có hợp đồng lao động với tổng mức lương hàng năm trên **€41 023**, bạn có thể nộp đơn xin giấy phép cư trú _"passeport talent"_ nhiều năm [link](https://www.service-public.fr/particuliers/vosdroits/F16922), với mention _"salarié qualifié" ou "entreprise innovante"_. Thời hạn sẽ đối với CDI là 4 năm và đối với CDD là phụ thuộc vào thời hạn ghi trên hợp đồng. Nếu lương trên **€53 836,50**, bạn sẽ được cấp _"passeport talent"_ với mention _"Carte bleue européenne - Emploi hautement qualifié"_ (EU Blue Card) với nhiều quyền lợi rất tốt https://immigration-portal.ec.europa.eu/blue-card/essential-information_en.
+- Nếu bạn có hợp đồng lao động với tổng mức lương hàng năm trên **€41 023**, bạn có thể nộp đơn xin giấy phép cư trú _"passeport talent"_ nhiều năm (Tham khảo thêm [tại đây](https://www.service-public.fr/particuliers/vosdroits/F16922), với mention _"salarié qualifié" ou "entreprise innovante"_). Thời hạn sẽ đối với CDI là 4 năm và đối với CDD là phụ thuộc vào thời hạn ghi trên hợp đồng. Nếu lương trên **€53 836,50**, bạn sẽ được cấp _"passeport talent"_ với mention _"Carte bleue européenne - Emploi hautement qualifié"_ (EU Blue Card) với nhiều quyền lợi rất tốt. Thông tin chi tiết các bạn có thể tham khảo [tại đây](https://immigration-portal.ec.europa.eu/blue-card/essential-information_en).
 
 #### Nếu bạn thành lập doanh nghiệp
 

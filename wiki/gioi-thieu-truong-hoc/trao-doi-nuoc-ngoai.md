@@ -2,6 +2,7 @@
 authors:
   - name: "Hué-INSA Alumni"
     github: "hue-insa-alumni"
+  - name: "Phan Bá Gia Bảo K11"
 date: 2025-05-15 01:04 +0100
 ---
 
@@ -25,5 +26,3 @@ Khi có thông báo qua email từ cô phụ trách bên phòng hợp tác quố
 Khi nhận được mail từ người phụ trách bên phòng quan hệ quốc tế, nếu các bạn còn gặp điều gì không rõ có thể liên hệ với người phụ trách đó để hỏi rõ và cụ thể hơn các thông tin chi tiết vì thời điểm bài viết này ra đời và thời điểm các bạn đọc và đăng kí là khác nhau và có thể sẽ có những sự thay đổi mà chúng tôi không kịp cập nhật cho các bạn.
 
 Chúc các bạn may mắn và thành công!
-
-_Cần thêm nội dung..._

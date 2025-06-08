@@ -2,12 +2,13 @@
 authors:
   - name: "Hué-INSA Alumni"
     github: "hue-insa-alumni"
+  - name: "Nguyễn Tiến Mạnh K4"
 date: 2023-03-25 22:19 +0200
 ---
 
 # Làm thẻ ngân hàng
 
-Mở tài khoản ngân hàng thì thường là bước quan trọng thứ 2 sau khi tìm được nhà: nó là chìa khoá cho bạn được sử dụng 99% tiện ích hằng ngày trong cuộc sống ở Pháp. Pháp là đất nước chuộng card ngân hàng hơn so với nhiều nước khác nên việc mở tài khoản gần như là bắt buộc. Tất nhiên bạn cũng có thể sử dụng card ngân hàng Mastercard, Amex hay Visa mà bạn có sẵn trước khi qua trong thời gian đầu để có thể débloque 1 số thứ.
+Mở tài khoản ngân hàng thì thường là bước quan trọng thứ 2 sau khi tìm được nhà: nó là chìa khoá cho bạn được sử dụng 99% tiện ích hằng ngày trong cuộc sống ở Pháp. Pháp là đất nước chuộng card ngân hàng hơn so với nhiều nước khác nên việc mở tài khoản gần như là bắt buộc. Tất nhiên bạn cũng có thể sử dụng card ngân hàng Mastercard, Amex hay Visa mà bạn có sẵn trước khi qua trong thời gian đầu để có thể débloque một số thứ.
 
 Ở Pháp phổ biến cả 2 loại ngân hàng:
 
@@ -33,12 +34,12 @@ Việc rút tiền từ cây ATM, chuyển khoản giữa các ngân hàng ở P
 
 ## Ngân hàng online
 
-Ngân hàng online có rất nhiều ưu điểm hơn so với ngân hàng truyền thống: phí duy trì tài khoản rất thấp hay thậm chí bằng 0 nếu bạn sử dụng thẻ trong tháng, có hệ thống parrainage để bạn có thể giới thiệu cho bạn bè mình để ăn hoa hồng (mỗi người 50/50 lợi cả đôi đường 8-)). Sử dụng rất tiện lợi và không rườm rà như ngân hàng truyền thống.
+Ngân hàng online có rất nhiều ưu điểm hơn so với ngân hàng truyền thống: phí duy trì tài khoản rất thấp hay thậm chí bằng 0 nếu bạn sử dụng thẻ trong tháng, có hệ thống parrainage để bạn có thể giới thiệu cho bạn bè mình để ăn hoa hồng (mỗi người 50/50 lợi cả đôi đường). Sử dụng rất tiện lợi và không rườm rà như ngân hàng truyền thống.
 
 Điểm yếu có lẽ là ngân hàng online không có chi nhánh như ngân hàng truyền thống nên nếu có trục trặc thì phải gọi tới service client có thể mất nhiều thời gian.
 
 ### Boursorama
 
-Mình xin nói riêng về Boursorama ở đây vì có lẽ đây là ngân hàng online "dễ tính" nhất để mở cho sinh viên: không bắt buộc phải có lương hàng tháng. Tài khoản basique nhất của boursorama chỉ cần bạn nạp vào ngân hàng 300 euros để mở tài khoản. Chi phí duy trì là O đồng nếu bạn sử dụng thẻ trong tháng (trả vé bus 1 đồng cũng tính). Có nhiều ưu đãi như cashback the corner, assurance...
+Mình xin nói riêng về Boursorama ở đây vì có lẽ đây là ngân hàng online "dễ tính" nhất để mở cho sinh viên: không bắt buộc phải có lương hàng tháng. Tài khoản basique nhất của boursorama chỉ cần bạn nạp vào ngân hàng 300 euros để mở tài khoản. Chi phí duy trì là 0 đồng nếu bạn sử dụng thẻ trong tháng (trả vé bus 1 đồng cũng tính). Có nhiều ưu đãi như cashback the corner, assurance...
 
-Đặc biệt boursorama rất hay có khuyến mãi mở tài khoản thông qua parrainage, số tiền nhận được có thể lên tới 200 euros cho cả 2 người. Nếu bạn thấy có khuyến mãi mà chưa mở đừng ngại ngần mà hỏi trong hội xem có ai có thể parrainer bạn nhá. Rất nhiều người luôn sẵn lòng làm đấy (như người viết bài viết này 8-O)
+Đặc biệt boursorama rất hay có khuyến mãi mở tài khoản thông qua parrainage, số tiền nhận được có thể lên tới 200 euros cho cả 2 người. Nếu bạn thấy có khuyến mãi mà chưa mở đừng ngại ngần mà hỏi trong hội xem có ai có thể parrainer bạn nhá. Rất nhiều người luôn sẵn lòng làm đấy (như người viết bài viết này ;))
