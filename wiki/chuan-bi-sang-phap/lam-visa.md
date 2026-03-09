@@ -23,6 +23,8 @@ Dưới đây là danh sách các giấy tờ cần thiết cho các thủ tục
 | Ảnh thẻ||
 | Giấy khai sinh ||
 
+
+
 ## Các địa điểm dịch thuật
 
 ## Các câu hỏi thường gặp trong phỏng vấn
