@@ -20,28 +20,37 @@ Sau khi hoàn thành hồ sơ ở Campus France:
 ## Danh sách giấy tờ
 
 Dưới đây là danh sách các giấy tờ cần thiết cho các thủ tục liên quan đến xin visa:
+- Certificat scolarités từ INSA
+- Thư mời nhập học từ INSA
+- Passeport
+- Các bằng ngoại ngữ (e.g. DELF, IELTS)
+- Học bạ
+- Chứng nhận tốt nghiệp THPT
+- CV
+- Các giải thưởng cá nhân (e.g. HSGQG)
+- Bảng điểm 2 năm học ở Huế (nên dùng bản gốc của INSA)
+- Thư động lực - Lettre de motivation
+- Chứng minh tài chính
+- Giấy tờ nhà
+- Ảnh thẻ
+- Giấy khai sinh
 
-Certificat scolarités từ INSA
-Thư mời nhập học từ INSA
-Passeport
-Các bằng ngoại ngữ (e.g. DELF, IELTS)
-Học bạ
-Chứng nhận tốt nghiệp THPT
-CV
-Các giải thưởng cá nhân (e.g. HSGQG)
-Bảng điểm 2 năm học ở Huế (nên dùng bản gốc của INSA)
-Thư động lực - Lettre de motivation
-Chứng minh tài chính
-Giấy tờ nhà
-Ảnh thẻ
-Giấy khai sinh
 
 ## Các địa điểm dịch thuật
 
 Nên dịch các giấy tờ ở các cơ sở Viện Pháp trong nước để thuận lợi trong tất cả các bước.
-Viện Pháp tại Huế (nên dịch ở Huế)
-Viện Pháp tại Đà Nẵng
-Viện Pháp tại Hà Nội
-Viện Pháp tại Hồ Chí Minh
+- Viện Pháp tại Huế (nên dịch ở Huế)
+- Viện Pháp tại Đà Nẵng
+- Viện Pháp tại Hà Nội
+- Viện Pháp tại Hồ Chí Minh
 
-## Các câu hỏi thường gặp
+
+## Phỏng vấn Campus France
+
+Những câu hỏi campus France sẽ chủ yếu xoay quanh về tất cả giấy tờ mà mọi người đã nộp, về định hướng nghề nghiệp tương lai hoặc chuyên ngành mà mọi người muốn theo khi học ở INSA. 
+
+## Phỏng vấn INSA
+
+Mục đích chính của cuộc phỏng vấn là để đánh giá trình độ tiếng pháp, lắng nghe những khó khăn học sinh, và đánh giá tình hình học tập của các bạn.
+
+Trong cuộc phỏng vấn, thường sẽ có 2 thầy cô từ INSA CVL Blois và Bourges và  một thầy đại diện cho INSA ở VN. Các thầy cô sẽ phỏng vấn mỗi bạn từ 10-15 phút.
