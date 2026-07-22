@@ -26,7 +26,7 @@ Theo một thống kê không chính thức, khoảng 30 - 40% việc làm tìm 
 
 ### Chuẩn bị CV và phỏng vấn
 
-Vui lòng tham khảo các tips viết CV, gửi CV và phỏng vấn tại đây [Xin thực tập - Xin việc](../xin-thuc-tap-xin-viec.md)
+Vui lòng tham khảo các tips viết CV, gửi CV và phỏng vấn tại [đây](../xin-thuc-tap-xin-viec/viet-cv.md)
 
 ## Xin giấy phép cư trú sau khi kết thúc chương trình học
 

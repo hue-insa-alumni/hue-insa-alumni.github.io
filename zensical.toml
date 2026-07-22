@@ -31,9 +31,9 @@ site_url = "https://hue-insa-alumni.github.io/"
 
 repo_url = "https://github.com/hue-insa-alumni/hue-insa-alumni.github.io"
 repo_name = "hue-insa-alumni.github.io"
-edit_uri = "edit/main/wiki/"
+edit_uri = "edit/main/contents/"
 
-docs_dir = "wiki"
+docs_dir = "contents"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -51,72 +51,79 @@ Copyright &copy; 2026 Hué-INSA Alumni
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "Trang chủ" = "index.md" },
-  { "Giới thiệu chương trình" = [
-    { "Nguồn gốc và lịch sử" = "gioi-thieu-chuong-trinh/nguon-goc.md" },
-    { "Chương trình học" = "gioi-thieu-chuong-trinh/chuong-trinh-hoc-viet-nam-va-phap.md" },
+  { "Wiki" = [
+    { "Trang chủ" = "index.md" },
+    { "Giới thiệu chương trình" = [
+      { "Nguồn gốc và lịch sử" = "wiki/gioi-thieu-chuong-trinh/nguon-goc.md" },
+      { "Chương trình học" = "wiki/gioi-thieu-chuong-trinh/chuong-trinh-hoc-viet-nam-va-phap.md" },
+    ] },
+    { "Giới thiệu trường học" = [
+      { "Ngành học Bourges" = "wiki/gioi-thieu-truong-hoc/gioi-thieu-nganh-hoc-bourges.md" },
+      { "Ngành học Blois" = "wiki/gioi-thieu-truong-hoc/gioi-thieu-nganh-hoc-blois.md" },
+      { "Ngành học Toulouse" = "wiki/gioi-thieu-truong-hoc/gioi-thieu-nganh-hoc-toulouse.md" },
+      { "Các ngành nghề đầu ra" = "wiki/gioi-thieu-truong-hoc/nganh-nghe-dau-ra.md" },
+      { "Chương trình trao đổi" = "wiki/gioi-thieu-truong-hoc/trao-doi-nuoc-ngoai.md" },
+    ] },
+    { "Chuẩn bị sang Pháp" = [
+      { "Đồ đạc cần mang" = "wiki/chuan-bi-sang-phap/do-dac-can-mang.md" },
+      { "Thuê nhà" = "wiki/chuan-bi-sang-phap/thu-tuc-thue-nha.md" },
+      { "Sinh hoạt phí" = "wiki/chuan-bi-sang-phap/sinh-hoat-phi.md" },
+      { "Bằng lái xe" = "wiki/chuan-bi-sang-phap/bang-lai-xe.md" },
+      { "Làm visa" = "wiki/chuan-bi-sang-phap/lam-visa.md" },
+      { "Tips khác" = "wiki/chuan-bi-sang-phap/tips-khac.md" },
+    ] },
+    { "Thủ tục hành chính" = [
+      { "Làm carte vitale" = "wiki/thu-tuc-hanh-chinh/lam-carte-vitale.md" },
+      { "Làm titre de séjour" = "wiki/thu-tuc-hanh-chinh/lam-titre-de-sejour.md" },
+      { "Xin CAF" = "wiki/thu-tuc-hanh-chinh/xin-caf.md" },
+      { "Làm mutuelle" = "wiki/thu-tuc-hanh-chinh/lam-mutuelle.md" },
+      { "Xin học bổng" = "wiki/thu-tuc-hanh-chinh/xin-hoc-bong.md" },
+      { "Làm thẻ ngân hàng" = "wiki/thu-tuc-hanh-chinh/lam-the-ngan-hang.md" },
+      { "Làm OFII" = "wiki/thu-tuc-hanh-chinh/lam-ofii.md" },
+    ] },
+    { "Cuộc sống sinh viên" = [
+      { "Địa điểm giải trí Blois" = "wiki/gioi-thieu-cuoc-song/dia-diem-giai-tri-blois.md" },
+      { "Địa điểm giải trí Bourges" = "wiki/gioi-thieu-cuoc-song/dia-diem-giai-tri-bourges.md" },
+      { "Địa điểm giải trí Toulouse" = "wiki/gioi-thieu-cuoc-song/dia-diem-giai-tri-toulouse.md" },
+      { "Tìm việc làm thêm" = "wiki/gioi-thieu-cuoc-song/tim-viec-lam-them.md" },
+    ] },
+    { "Tips cuộc sống" = [
+      { "Đăng ký internet" = "wiki/tips-cuoc-song/dang-ky-internet.md" },
+      { "Đăng ký điện thoại" = "wiki/tips-cuoc-song/dang-ky-dien-thoai.md" },
+      { "Mua hàng online" = "wiki/tips-cuoc-song/mua-hang-online-tiet-kiem.md" },
+      { "Tips khác" = "wiki/tips-cuoc-song/tips-khac.md" },
+    ] },
+    { "Hướng dẫn đường đi" = [
+      { "Đến Toulouse" = "wiki/huong-dan-duong-di/den-toulouse.md" },
+      { "Đến Blois" = "wiki/huong-dan-duong-di/den-blois.md" },
+      { "Đến Bourges" = "wiki/huong-dan-duong-di/den-bourges.md" },
+      { "Hướng dẫn chung" = "wiki/huong-dan-duong-di/huong-dan-chung.md" },
+    ] },
+    { "Định hướng sau ra trường" = [
+      { "Xin việc / Giấy phép cư trú" = "wiki/dinh-huong/xin-viec-lam-xin-giay-phep-cu-tru.md" },
+      { "Học thêm master 2" = "wiki/dinh-huong/hoc-master.md" },
+      { "Học tiến sĩ" = "wiki/dinh-huong/hoc-tien-si.md" },
+    ] },
+    { "Xin thực tập, xin việc" = [
+      { "Viết CV" = "wiki/xin-thuc-tap-xin-viec/viet-cv.md" },
+      { "Cách rải CV" = "wiki/xin-thuc-tap-xin-viec/cach-rai-cv.md" },
+      { "Tips phỏng vấn" = "wiki/xin-thuc-tap-xin-viec/tip-phong-van.md" },
+    ] },
+    { "Tư vấn ngành học" = [
+      { "Kinh nghiệm định hướng" = "wiki/tu-van-nganh-hoc/kinh-nghiem-dinh-huong.md" },
+    ] },
+    { "Thành tích cựu sinh viên" = [
+      { "Học bổng Eiffel" = "wiki/thanh-tich-cuu-sinh-vien/hoc-bong-eiffel.md" },
+    ] },
+    { "2 Năm học ở Việt Nam" = [
+      { "Tips học tập" = "wiki/2-nam-hoc-o-viet-nam/tips-ve-hoc-tap.md" },
+      { "Tips cuộc sống" = "wiki/2-nam-hoc-o-viet-nam/tips-ve-cuoc-song.md" },
+    ] },
   ] },
-  { "Giới thiệu trường học" = [
-    { "Ngành học Bourges" = "gioi-thieu-truong-hoc/gioi-thieu-nganh-hoc-bourges.md" },
-    { "Ngành học Blois" = "gioi-thieu-truong-hoc/gioi-thieu-nganh-hoc-blois.md" },
-    { "Ngành học Toulouse" = "gioi-thieu-truong-hoc/gioi-thieu-nganh-hoc-toulouse.md" },
-    { "Các ngành nghề đầu ra" = "gioi-thieu-truong-hoc/nganh-nghe-dau-ra.md" },
-    { "Chương trình trao đổi" = "gioi-thieu-truong-hoc/trao-doi-nuoc-ngoai.md" },
-  ] },
-  { "Chuẩn bị sang Pháp" = [
-    { "Đồ đạc cần mang" = "chuan-bi-sang-phap/do-dac-can-mang.md" },
-    { "Thuê nhà" = "chuan-bi-sang-phap/thu-tuc-thue-nha.md" },
-    { "Sinh hoạt phí" = "chuan-bi-sang-phap/sinh-hoat-phi.md" },
-    { "Bằng lái xe" = "chuan-bi-sang-phap/bang-lai-xe.md" },
-    { "Làm visa" = "chuan-bi-sang-phap/lam-visa.md" },
-    { "Tips khác" = "chuan-bi-sang-phap/tips-khac.md" },
-  ] },
-  { "Thủ tục hành chính" = [
-    { "Làm carte vitale" = "thu-tuc-hanh-chinh/lam-carte-vitale.md" },
-    { "Làm titre de séjour" = "thu-tuc-hanh-chinh/lam-titre-de-sejour.md" },
-    { "Xin CAF" = "thu-tuc-hanh-chinh/xin-caf.md" },
-    { "Làm mutuelle" = "thu-tuc-hanh-chinh/lam-mutuelle.md" },
-    { "Xin học bổng" = "thu-tuc-hanh-chinh/xin-hoc-bong.md" },
-    { "Làm thẻ ngân hàng" = "thu-tuc-hanh-chinh/lam-the-ngan-hang.md" },
-    { "Làm OFII" = "thu-tuc-hanh-chinh/lam-ofii.md" },
-  ] },
-  { "Cuộc sống sinh viên" = [
-    { "Địa điểm giải trí Blois" = "gioi-thieu-cuoc-song/dia-diem-giai-tri-blois.md" },
-    { "Địa điểm giải trí Bourges" = "gioi-thieu-cuoc-song/dia-diem-giai-tri-bourges.md" },
-    { "Địa điểm giải trí Toulouse" = "gioi-thieu-cuoc-song/dia-diem-giai-tri-toulouse.md" },
-    { "Tìm việc làm thêm" = "gioi-thieu-cuoc-song/tim-viec-lam-them.md" },
-  ] },
-  { "Tips cuộc sống" = [
-    { "Đăng ký internet" = "tips-cuoc-song/dang-ky-internet.md" },
-    { "Đăng ký điện thoại" = "tips-cuoc-song/dang-ky-dien-thoai.md" },
-    { "Mua hàng online" = "tips-cuoc-song/mua-hang-online-tiet-kiem.md" },
-    { "Tips khác" = "tips-cuoc-song/tips-khac.md" },
-  ] },
-  { "Hướng dẫn đường đi" = [
-    { "Đến Toulouse" = "huong-dan-duong-di/den-toulouse.md" },
-    { "Đến Blois" = "huong-dan-duong-di/den-blois.md" },
-    { "Đến Bourges" = "huong-dan-duong-di/den-bourges.md" },
-    { "Hướng dẫn chung" = "huong-dan-duong-di/huong-dan-chung.md" },
-  ] },
-  { "Định hướng sau ra trường" = [
-    { "Xin việc / Giấy phép cư trú" = "dinh-huong/xin-viec-lam-xin-giay-phep-cu-tru.md" },
-    { "Học thêm master 2" = "dinh-huong/hoc-master.md" },
-    { "Học tiến sĩ" = "dinh-huong/hoc-tien-si.md" },
-  ] },
-  { "Xin thực tập, xin việc" = [
-    { "Viết CV" = "xin-thuc-tap-xin-viec/viet-cv.md" },
-    { "Cách rải CV" = "xin-thuc-tap-xin-viec/cach-rai-cv.md" },
-    { "Tips phỏng vấn" = "xin-thuc-tap-xin-viec/tip-phong-van.md" },
-  ] },
-  { "Tư vấn ngành học" = [
-    { "Kinh nghiệm định hướng" = "tu-van-nganh-hoc/kinh-nghiem-dinh-huong.md" },
-  ] },
-  { "Thành tích cựu sinh viên" = [
-    { "Học bổng Eiffel" = "thanh-tich-cuu-sinh-vien/hoc-bong-eiffel.md" },
-  ] },
-  { "2 Năm học ở Việt Nam" = [
-    { "Tips học tập" = "2-nam-hoc-o-viet-nam/tips-ve-hoc-tap.md" },
-    { "Tips cuộc sống" = "2-nam-hoc-o-viet-nam/tips-ve-cuoc-song.md" },
+  { "Quỹ học bổng hội" = [
+    { "Giới thiệu" = "scholarship/gioi-thieu.md" },
+    { "Câu hỏi thường gặp" = "scholarship/faq.md" },
+    { "Danh sách đóng góp" = "scholarship/danh-sach-dong-gop.md" },
   ] },
   { "Hướng dẫn sử dụng" = "huong-dan.md" },
 ]
@@ -288,12 +295,12 @@ features = [
   # When tabs are enabled, top-level sections are rendered in a menu layer
   # below the header for viewports above 1220px, but remain as-is on mobile.
   # https://zensical.org/docs/setup/navigation/#navigation-tabs
-  #"navigation.tabs",
+  "navigation.tabs",
 
   # When sticky tabs are enabled, navigation tabs will lock below the header
   # and always remain visible when scrolling down.
   # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
-  #"navigation.tabs.sticky",
+  "navigation.tabs.sticky",
 
   # A back-to-top button can be shown when the user, after scrolling down,
   # starts to scroll up again.
