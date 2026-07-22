@@ -1,5 +1,6 @@
 ---
 redirect_from: /
+comments: false
 authors:
   - name: "Hué-INSA Alumni"
     github: "hue-insa-alumni"

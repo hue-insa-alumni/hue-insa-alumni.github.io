@@ -8,7 +8,7 @@ date: 2023-03-25 22:19 +0200
 
 # Học tiến sĩ
 
-Bài viết này sẽ giới thiệu cách theo học tiến sĩ sau sĩ sư.
+Bài viết này sẽ giới thiệu cách theo học tiến sĩ sau kĩ sư.
 
 ## Điều kiện
 

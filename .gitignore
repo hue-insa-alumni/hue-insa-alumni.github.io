@@ -1,5 +1,1 @@
-_site
-Gemfile.*.lock
-.sass-cache
-Gemfile
-Gemfile.lock
+site/
