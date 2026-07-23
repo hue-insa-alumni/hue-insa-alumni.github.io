@@ -120,7 +120,7 @@ nav = [
       { "Tips cuộc sống" = "wiki/2-nam-hoc-o-viet-nam/tips-ve-cuoc-song.md" },
     ] },
   ] },
-  { "Quỹ học bổng hội" = [
+  { "Quỹ học bổng" = [
     { "Giới thiệu" = "scholarship/gioi-thieu.md" },
     { "Câu hỏi thường gặp" = "scholarship/faq.md" },
     { "Danh sách đóng góp" = "scholarship/danh-sach-dong-gop.md" },
