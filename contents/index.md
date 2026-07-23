@@ -9,7 +9,7 @@ date: 2025-05-15 01:04 +0100
 
 # Trang chủ
 
-Trang thông tin chung của hội Hué-INSA Alumni được xây dựng từ template [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton).
+Trang thông tin chung của hội Hué-INSA Alumni.
 
 Xin vui lòng tham khảo phần [Hướng dẫn sử dụng](huong-dan.md) để bắt đầu sử dụng cổng thông tin.
 
