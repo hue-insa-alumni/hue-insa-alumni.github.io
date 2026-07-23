@@ -14,7 +14,7 @@ setup: install-uv ## install zensical globally via uv tool
 	uv tool install zensical
 
 build: ## build site with zensical
-	uvx zensical build --clean --config-file zensical.toml
+	uvx zensical build --clean --strict --config-file zensical.toml
 
 run: ## start local dev server with live reload
 	zensical serve --config-file zensical.toml
