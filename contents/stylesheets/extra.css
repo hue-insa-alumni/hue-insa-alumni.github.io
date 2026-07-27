@@ -1,0 +1,32 @@
+.md-page-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  padding-top: 0.8rem;
+  border-top: 0.05rem solid var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
+  font-size: 0.7rem;
+}
+
+.md-page-meta__date,
+.md-page-meta__authors {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.md-page-meta svg {
+  width: 0.9rem;
+  height: 0.9rem;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.md-page-meta__authors a {
+  color: var(--md-default-fg-color--light);
+}
+
+.md-page-meta__authors a:hover {
+  color: var(--md-accent-fg-color);
+}

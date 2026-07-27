@@ -1,0 +1,20 @@
+{% include "partials/actions.html" %}
+{% if "<h1" not in page.content %}
+  <h1 id="__skip">{{ page.title | d(config.site_name, true)}}</h1>
+{% endif %}
+{{ page.content }}
+{% if page.meta.git_revision_date_localized %}
+  <p><em>Cập nhật: {{ page.meta.git_revision_date_localized }}</em></p>
+{% endif %}
+{% if page.meta.authors %}
+  <p><em>
+    {%- for author in page.meta.authors %}
+      {%- if author.github %}<a href="https://github.com/{{ author.github }}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}
+      {%- if not loop.last %}, {% endif %}
+    {%- endfor %}
+  </em></p>
+{% endif %}
+{% include "partials/tags.html" %}
+{% include "partials/source-file.html" %}
+{% include "partials/feedback.html" %}
+{% include "partials/comments.html" %}
