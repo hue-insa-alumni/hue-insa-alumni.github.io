@@ -122,6 +122,8 @@ nav = [
   ] },
   { "Quỹ học bổng" = [
     { "Giới thiệu" = "scholarship/gioi-thieu.md" },
+    { "Hướng dẫn đóng góp" = "scholarship/huong-dan-dong-gop.md" },
+    { "Hướng dẫn khai thuế" = "scholarship/huong-dan-khai-thue.md" },
     { "Câu hỏi thường gặp" = "scholarship/faq.md" },
     { "Danh sách đóng góp" = "scholarship/danh-sach-dong-gop.md" },
   ] },
