@@ -19,8 +19,8 @@ Mức giảm thuế này được áp dụng trong giới hạn **20% thu nhập
 
 ## Cách khai thuế
 
-1. Đóng góp qua tài khoản của hội AEVN (Hội bảo trợ trẻ em Việt Nam) với nội dung chuyển khoản "Bourse Hué Insa Alumni" (xem chi tiết tại [Hướng dẫn đóng góp](huong-dan-dong-gop.md)). Hội AEVN sẽ chuyển toàn bộ số tiền lại cho Quỹ Alumni quản lý.
-2. Hội AEVN gửi cho quý vị giấy chứng nhận đóng góp (reçu fiscal, mẫu Cerfa n°11580) - đây là chứng từ cần thiết để khai thuế.
+1. Đóng góp qua tài khoản của hội AEVN, ghi nội dung chuyển khoản đúng cú pháp (xem chi tiết tại [Hướng dẫn đóng góp](huong-dan-dong-gop.md)). Hội AEVN sẽ chuyển toàn bộ số tiền và thông tin lại cho Quỹ Alumni quản lý.
+2. Sau mỗi năm, ban quản lý sẽ gửi cho quý vị giấy chứng nhận đóng góp (reçu fiscal, mẫu Cerfa n°11580) - đây là chứng từ cần thiết để khai thuế.
 3. Khi khai thuế thu nhập hằng năm (déclaration de revenus), điền tổng số tiền đã đóng góp trong năm vào ô **7UF** (mục "Dons à des organismes d'intérêt général") trên tờ khai 2042.
 4. Không cần gửi kèm giấy chứng nhận khi khai thuế; quý vị chỉ cần lưu giữ để xuất trình khi cơ quan thuế yêu cầu kiểm tra.
 

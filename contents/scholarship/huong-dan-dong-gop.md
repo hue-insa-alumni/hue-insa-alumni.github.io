@@ -11,14 +11,14 @@ Cảm ơn anh chị em và quý vị đã dành sự quan tâm và muốn đồn
 
 ## Kênh đóng góp
 
-Mọi người có thể đóng góp qua một trong hai kênh sau:
+Mọi người có thể đóng góp qua một trong những kênh sau:
 
-1. **Tài khoản ngân hàng tại Pháp, trực thuộc hội AEVN:**
+1. **Tài khoản ngân hàng tại Pháp, trực thuộc hội [AEVN (Hội bảo trợ trẻ em Việt Nam)](https://aevn.org/):**
 
 - RIB: `FR76 1870 7000 1901 9215 0497 111`
 - Đây cũng là kênh duy nhất có thể cấp giấy chứng nhận để hoàn thuế tại Pháp
 
-1. **Tài khoản ngân hàng tại Việt Nam:**
+2. **Tài khoản ngân hàng tại Việt Nam:**
 
 - Chủ tài khoản: chị Trần Thị Thanh Thủy
 - Số tài khoản: `101871191855`

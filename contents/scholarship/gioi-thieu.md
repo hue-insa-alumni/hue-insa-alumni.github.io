@@ -1,8 +1,8 @@
 ---
 authors:
-  - name: "Hué-INSA Alumni"
-    github: "hue-insa-alumni"
-date: 2026-07-23 00:00 +0200
+  - name: "Vu LE"
+    github: "ldkv"
+date: 2026-08-01 00:00 +0200
 ---
 
 # Quỹ học bổng Hué-INSA Alumni
@@ -21,19 +21,19 @@ Mọi thông tin về đóng góp, tiêu chí xét học bổng cũng như các 
 
 Để nắm thêm thông tin cụ thể, mọi người có thể xem ở những trang wiki sau:
 
-- [Giới thiệu quỹ học bổng](./gioi-thieu.md)
-- [Hướng dẫn đóng góp](./huong-dan-dong-gop.md)
-- [Hướng dẫn khai thuế](./huong-dan-khai-thue.md)
-- [Những câu hỏi thường gặp](./faq.md)
-- [Danh sách đóng góp](./danh-sach-dong-gop.md)
+- [Giới thiệu quỹ học bổng](gioi-thieu.md)
+- [Hướng dẫn đóng góp](huong-dan-dong-gop.md)
+- [Hướng dẫn khai thuế](huong-dan-khai-thue.md)
+- [Những câu hỏi thường gặp](faq.md)
+- [Danh sách đóng góp](danh-sach-dong-gop.md)
 
-Mọi thắc mắc hay thông tin liên hệ, xin liên hệ trực tiếp với thành viên ban quản lý hoặc BCH Alumni qua email: hueinsa.alumni@gmail.com
+Mọi thắc mắc hoặc muốn biết thêm thông tin, xin liên hệ trực tiếp với thành viên ban quản lý hoặc BCH Alumni qua email: hueinsa.alumni@gmail.com
 
 Xin cảm ơn sự ủng hộ của tất cả anh chị em.
 
 ## Ban quản lý học bổng
 
-Ban quản lý gồm những anh chị sau:
+Ban quản lý gồm những thành viên sau:
 
 - Anh **Lê Đào Khánh Vũ** - cựu sinh viên K0 (thành viên Ban chấp hành HIA nhiệm kỳ 1)
 - Chị **Trần Thị Thanh Thủy** - cựu sinh viên K1 (thành viên Ban chấp hành HIA nhiệm kỳ 1)
