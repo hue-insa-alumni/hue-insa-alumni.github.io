@@ -5,7 +5,7 @@ authors:
 date: 2026-07-23 00:00 +0200
 ---
 
-## Câu hỏi thường gặp
+# Câu hỏi thường gặp
 
 **1. Mục đích của việc thành lập quỹ học bổng này là gì?**
 
