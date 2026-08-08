@@ -1,6 +1,6 @@
 #!make
 
-.PHONY: help install-uv setup run build
+.PHONY: help install-uv setup run build sync-nav
 
 .DEFAULT_GOAL := help
 
@@ -18,6 +18,9 @@ build: ## build site with zensical
 
 run: ## start local dev server with live reload
 	zensical serve --config-file zensical.toml
+
+sync-nav: ## add/remove nav entries in zensical.toml to match contents/*.md
+	uv run scripts/sync_nav.py
 
 
 %:
