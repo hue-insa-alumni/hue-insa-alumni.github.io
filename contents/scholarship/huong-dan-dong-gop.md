@@ -13,7 +13,7 @@ Cảm ơn anh chị em và quý vị đã dành sự quan tâm và muốn đồn
 
 Mọi người có thể đóng góp qua một trong những kênh sau:
 
-1. **Tài khoản ngân hàng tại Pháp, trực thuộc hội [AEVN (Hội bảo trợ trẻ em Việt Nam)](https://aevn.org/):**
+1. **Tài khoản ngân hàng tại Pháp:**
 
 - RIB: `FR76 1870 7000 1901 9215 0497 111`
 - Đây cũng là kênh duy nhất có thể cấp giấy chứng nhận để hoàn thuế tại Pháp
@@ -40,13 +40,13 @@ Ngoài ra, mọi người có thể chọn đóng góp một lần hoặc đóng
 
 ## Điền biểu mẫu thống kê
 
-Sau khi chuyển khoản, anh chị em và quý vị điền thêm vào biểu mẫu dưới đây để Ban quản lý nắm thông tin và cập nhật danh sách đóng góp sớm nhất:
+Sau khi chuyển khoản, quý vị điền thêm vào biểu mẫu dưới đây để Ban quản lý nắm thông tin và cập nhật danh sách đóng góp sớm nhất:
 
-[Biểu mẫu thông tin đóng góp](https://docs.google.com/forms/d/e/1FAIpQLSeu2zHS18V-1-T-RJVzdyV4SBvfgFp9xYGmZ-9O9O_9Ar8fPg/viewform?usp=header)
+<a href="https://forms.gle/nbPJw2R9z7grQL977" target="_blank" rel="noopener noreferrer">Biểu mẫu thông tin đóng góp</a>
 
 Điền biểu mẫu cũng là cách để anh chị em nhận được:
 
-- Giấy chứng nhận đóng góp phục vụ hoàn thuế (đối với đóng góp qua tài khoản AEVN tại Pháp)
+- Giấy chứng nhận đóng góp phục vụ hoàn thuế (đối với đóng góp qua tài khoản tại Pháp)
 - Cơ hội được mời tham gia Ban xét học bổng
 - Báo cáo thu chi của quỹ trong năm, cùng danh sách các bạn sinh viên nhận được học bổng
 

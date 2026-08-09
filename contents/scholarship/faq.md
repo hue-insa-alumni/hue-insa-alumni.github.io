@@ -21,7 +21,7 @@ Có. Quý vị có thể chọn ẩn danh khi điền biểu mẫu đóng góp -
 
 **4. Những lợi ích mà bạn có thể nhận được khi thực hiện việc ủng hộ quỹ**
 
-- Giấy chứng nhận đóng góp phục vụ hoàn thuế (đối với đóng góp qua tài khoản AEVN tại Pháp), giúp giảm 66% số tiền đóng góp trên thuế thu nhập
+- Giấy chứng nhận đóng góp phục vụ hoàn thuế (đối với đóng góp qua tài khoản tại Pháp), giúp giảm 66% số tiền đóng góp trên thuế thu nhập
 - Cơ hội được mời tham gia Ban xét học bổng
 - Báo cáo thu chi của quỹ trong năm, cùng danh sách các bạn sinh viên nhận được học bổng
 - Trên hết, niềm vui được đồng hành và tiếp sức cho thế hệ sinh viên đi sau
@@ -57,7 +57,3 @@ Có. Quỹ có tài khoản nhận đóng góp tại Việt Nam (xem [Hướng d
 **12. Tôi có thể thực hiện việc đóng góp một lần hay từng đợt theo ý muốn không (tự động theo từng tháng, hoặc theo từng quý hoặc bao nhiêu tháng/lần theo ý muốn)?**
 
 Có, quý vị hoàn toàn linh hoạt lựa chọn: đóng góp một lần, hoặc thiết lập chuyển khoản định kỳ (virement permanent) theo tháng, theo quý hay theo tần suất tùy ý. Chỉ cần đảm bảo mỗi lần chuyển khoản đều ghi đúng cú pháp nội dung như hướng dẫn để Ban quản lý dễ dàng đối soát.
-
-**13. Vì sao tôi phải đóng góp qua tài khoản của hội AEVN thay vì tài khoản của hội Alumni?**
-
-Đây là cách duy nhất để nhận được giấy chứng nhận hoàn thuế cho khoản đóng góp của quý vị. Hiện tại hội Alumni chưa đủ năng lực pháp lý để cấp giấy này.

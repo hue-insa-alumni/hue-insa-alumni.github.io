@@ -11,7 +11,7 @@ Tại Pháp, các khoản đóng góp cho tổ chức phi lợi nhuận phục v
 
 ## Mức giảm thuế
 
-Mỗi khoản đóng góp cho tổ chức có tư cách "intérêt général" (như AEVN) được khấu trừ **66% số tiền quyên góp** vào thuế thu nhập phải nộp.
+Mỗi khoản đóng góp cho tổ chức có tư cách "intérêt général" được khấu trừ **66% số tiền quyên góp** vào thuế thu nhập phải nộp.
 
 Ví dụ: nếu đóng góp 15€/tháng (180€/năm), thực tế chỉ tốn 5€/tháng (61€/năm) sau khi được hoàn thuế, tức là chưa đến 34% số tiền đã đóng góp.
 
@@ -19,7 +19,7 @@ Mức giảm thuế này được áp dụng trong giới hạn **20% thu nhập
 
 ## Cách khai thuế
 
-1. Đóng góp qua tài khoản của hội AEVN, ghi nội dung chuyển khoản đúng cú pháp (xem chi tiết tại [Hướng dẫn đóng góp](huong-dan-dong-gop.md)). Hội AEVN sẽ chuyển toàn bộ số tiền và thông tin lại cho Quỹ Alumni quản lý.
+1. Đóng góp qua tài khoản tại Pháp, ghi nội dung chuyển khoản đúng cú pháp (xem chi tiết tại [Hướng dẫn đóng góp](huong-dan-dong-gop.md)).
 2. Sau mỗi năm, ban quản lý sẽ gửi cho quý vị giấy chứng nhận đóng góp (reçu fiscal, mẫu Cerfa n°11580) - đây là chứng từ cần thiết để khai thuế.
 3. Khi khai thuế thu nhập hằng năm (déclaration de revenus), điền tổng số tiền đã đóng góp trong năm vào ô **7UF** (mục "Dons à des organismes d'intérêt général") trên tờ khai 2042.
 4. Không cần gửi kèm giấy chứng nhận khi khai thuế; quý vị chỉ cần lưu giữ để xuất trình khi cơ quan thuế yêu cầu kiểm tra.
