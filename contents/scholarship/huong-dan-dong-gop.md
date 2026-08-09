@@ -13,12 +13,12 @@ Cảm ơn anh chị em và quý vị đã dành sự quan tâm và muốn đồn
 
 Mọi người có thể đóng góp qua một trong những kênh sau:
 
-1. **Tài khoản ngân hàng tại Pháp:**
+### 1. Tài khoản ngân hàng tại Pháp
 
 - RIB: `FR76 1870 7000 1901 9215 0497 111`
 - Đây cũng là kênh duy nhất có thể cấp giấy chứng nhận để hoàn thuế tại Pháp
 
-2. **Tài khoản ngân hàng tại Việt Nam:**
+### 2. Tài khoản ngân hàng tại Việt Nam
 
 - Chủ tài khoản: chị Trần Thị Thanh Thủy
 - Số tài khoản: `101871191855`
