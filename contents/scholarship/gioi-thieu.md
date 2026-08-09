@@ -9,7 +9,7 @@ date: 2026-08-01 00:00 +0200
 
 Anh chị em Alumni thân mến,
 
-Vậy là chương trình INSA của chúng ta đã bước sang năm thứ 20 - một hành trình dài mà ít ai ngờ lại đi được xa đến vậy. Từ ngày những anh chị K0 đặt chân đến Pháp năm 2007 cho đến hôm nay, đã có biết bao thế hệ sinh viên được học hành, trưởng thành và tìm thấy con đường riêng của mình. Có được điều đó, phần lớn là nhờ tâm huyết và đóng góp to lớn của Hội Gặp gỡ Việt Nam cùng vợ chồng giáo sư Trần Thanh Vân.
+Vậy là chương trình INSA của chúng ta đã bước sang năm thứ 20 - một hành trình dài mà ít ai ngờ lại đi được xa đến vậy. Từ ngày những anh chị K0 đặt chân đến Pháp năm 2007 cho đến hôm nay, đã có biết bao thế hệ sinh viên được học hành, trưởng thành và tìm thấy con đường riêng của mình. Có được điều đó, phần lớn là nhờ tâm huyết và đóng góp to lớn của Hội Gặp gỡ Việt Nam cùng vợ chồng giáo sư Trần Thanh Vân và Lê Kim Ngọc.
 
 Đến nay, học phí của chương trình vẫn được miễn phí hoàn toàn, nhưng chi phí sinh hoạt - tiền thuê nhà, ăn uống, đi lại - thì các em vẫn phải tự lo. Với những bạn có hoàn cảnh khó khăn, đây thực sự là một gánh nặng, nhiều khi ảnh hưởng không nhỏ đến việc học và cuộc sống hằng ngày. Chính vì vậy, với mong muốn tiếp nối tinh thần hỗ trợ các thế hệ đi sau và góp phần giúp chương trình phát triển bền vững hơn nữa, hội Alumni quyết định thành lập "Quỹ học bổng Hué-INSA Alumni".
 

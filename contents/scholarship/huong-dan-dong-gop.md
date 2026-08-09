@@ -40,9 +40,9 @@ Ngoài ra, mọi người có thể chọn đóng góp một lần hoặc đóng
 
 ## Điền biểu mẫu thống kê
 
-Sau khi chuyển khoản, anh chị em và quý vị điền thêm vào biểu mẫu dưới đây để Ban quản lý nắm thông tin và cập nhật danh sách đóng góp sớm nhất:
+Sau khi chuyển khoản, quý vị điền thêm vào biểu mẫu dưới đây để Ban quản lý nắm thông tin và cập nhật danh sách đóng góp sớm nhất:
 
-[Biểu mẫu thông tin đóng góp](https://docs.google.com/forms/d/e/1FAIpQLSeu2zHS18V-1-T-RJVzdyV4SBvfgFp9xYGmZ-9O9O_9Ar8fPg/viewform?usp=header)
+<a href="https://forms.gle/nbPJw2R9z7grQL977" target="_blank" rel="noopener noreferrer">Biểu mẫu thông tin đóng góp</a>
 
 Điền biểu mẫu cũng là cách để anh chị em nhận được:
 
