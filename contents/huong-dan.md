@@ -71,12 +71,33 @@ Sau khi tạo PR, hệ thống sẽ tự động chạy kiểm tra để đảm 
 
 ❌ **Nếu kiểm tra thất bại** — nhấn vào **Details** cạnh thông báo lỗi để xem chi tiết. Các lỗi thường gặp:
 
-| Lỗi            | Nguyên nhân                          | Cách sửa                                           |
-| -------------- | ------------------------------------ | -------------------------------------------------- |
-| File not found | Đường dẫn trong nav hoặc link bị sai | Kiểm tra lại tên file và đường dẫn                 |
-| Build error    | Cú pháp Markdown không hợp lệ        | Xem lại phần có lỗi, chạy `make run` để test local |
+| Lỗi             | Nguyên nhân                                                      | Cách sửa                                           |
+| --------------- | ---------------------------------------------------------------- | -------------------------------------------------- |
+| File not found  | Đường dẫn trong nav hoặc link bị sai                             | Kiểm tra lại tên file và đường dẫn                 |
+| Build error     | Cú pháp Markdown không hợp lệ                                    | Xem lại phần có lỗi, chạy `make run` để test local |
+| Nav out of sync | Trang mới/xóa chưa được cập nhật vào `nav` trong `zensical.toml` | Chạy `make sync-nav` ở local, commit thay đổi      |
 
 Sau khi sửa lỗi, commit và push lại — CI sẽ tự động chạy lại.
+
+#### Đồng bộ nav (`make sync-nav`)
+
+CI kiểm tra rằng mục `nav` trong `zensical.toml` khớp với các file `.md` hiện có trong `contents/` (chạy `make sync-nav -- --check`). Nếu bạn thêm hoặc xóa trang mà không cập nhật `nav`, kiểm tra này sẽ thất bại.
+
+Để đồng bộ tự động ở local:
+
+```bash
+make sync-nav
+```
+
+Lệnh này sẽ:
+
+- Xóa khỏi `nav` các entry ứng với file không còn tồn tại
+- Thêm entry cho các file `.md` mới, đặt tự động vào cùng nhóm với các trang cùng thư mục (tiêu đề lấy từ heading `#` đầu tiên)
+- In cảnh báo `?` nếu không thể xác định nhóm cho trang mới (thư mục mới hoặc chưa có trang nào) — trong trường hợp này, tự thêm entry vào `nav` bằng tay
+
+Sau khi chạy, kiểm tra lại `zensical.toml`, commit thay đổi rồi push.
+
+> 💡 Tên hiển thị (title) của một trang trong `nav` có thể tùy nghi sửa lại, miễn là entry vẫn trỏ đúng đường dẫn file. `sync_nav.py` chỉ thêm/xóa entry theo file tồn tại hay không, không tự động ghi đè lại title đã có sẵn.
 
 ### 5. Review và phê duyệt
 
