@@ -121,11 +121,11 @@ nav = [
     ] },
   ] },
   { "Quỹ học bổng" = [
-    { "Giới thiệu" = "scholarship/gioi-thieu.md" },
-    { "Hướng dẫn đóng góp" = "scholarship/huong-dan-dong-gop.md" },
-    { "Hướng dẫn khai thuế" = "scholarship/huong-dan-khai-thue.md" },
-    { "Câu hỏi thường gặp" = "scholarship/faq.md" },
-    { "Danh sách đóng góp" = "scholarship/danh-sach-dong-gop.md" },
+    { "Giới thiệu" = "hoc-bong/gioi-thieu.md" },
+    { "Hướng dẫn đóng góp" = "hoc-bong/huong-dan-dong-gop.md" },
+    { "Hướng dẫn khai thuế" = "hoc-bong/huong-dan-khai-thue.md" },
+    { "Câu hỏi thường gặp" = "hoc-bong/faq.md" },
+    { "Danh sách đóng góp" = "hoc-bong/danh-sach-dong-gop.md" },
   ] },
   { "Hướng dẫn sử dụng" = "huong-dan.md" },
 ]
