@@ -251,6 +251,13 @@ _in nghiêng_
 > ⚠️ Đây là một ghi chú quan trọng
 ```
 
+Hoặc:
+
+```markdown
+!!! note "Lưu ý"
+      Nội dung lưu ý như sau: ...
+```
+
 ## Quy ước viết bài
 
 1. Luôn thêm frontmatter với thông tin tác giả và ngày

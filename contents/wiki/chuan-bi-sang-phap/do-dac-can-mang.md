@@ -23,7 +23,8 @@ Trước khi sang pháp, các bạn cần phải scan màu hết những giấy 
 - Bằng lái xe, đã chuyển sang bằng quốc tế _(nếu có nên mang theo)_
 - Bằng tốt nghiệp cấp 3, bằng đại học _(không áp dụng cho sinh viên INSA Campus Huế)_
 
-> **Lưu ý:** Nên dịch và công chứng các loại giấy tờ trước khi lên đường thì sẽ nhẹ nhàng hơn cho bạn về sau.
+!!! note "Lưu ý"
+    Nên dịch và công chứng các loại giấy tờ trước khi lên đường thì sẽ nhẹ nhàng hơn cho bạn về sau.
 
 ## Đồ dùng cá nhân/học tập
 
