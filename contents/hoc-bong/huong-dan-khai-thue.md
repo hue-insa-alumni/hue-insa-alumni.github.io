@@ -9,6 +9,9 @@ date: 2026-08-01 00:00 +0200
 
 Tại Pháp, các khoản đóng góp cho tổ chức phi lợi nhuận phục vụ giáo dục và từ thiện được nhà nước hỗ trợ thông qua chính sách giảm thuế thu nhập cá nhân (Điều 200, Bộ luật Thuế vụ - Code général des impôts). Dưới đây là hướng dẫn chi tiết để anh chị em có thể tận dụng chính sách này khi đóng góp cho Quỹ học bổng.
 
+!!! note "Lưu ý"
+    Chỉ những khoản đóng góp thực hiện trong năm N (trước ngày 31/12) mới được khai vào tờ khai thuế nộp trong năm N+1 (khai cho thu nhập năm N). Ví dụ: đóng góp trong năm 2025 sẽ được khai trên tờ khai thuế nộp vào năm 2026.
+
 ## Mức giảm thuế
 
 Mỗi khoản đóng góp cho tổ chức có tư cách "intérêt général" được khấu trừ **66% số tiền quyên góp** vào thuế thu nhập phải nộp.
